@@ -6,7 +6,7 @@
 
 
 - ✨ I'm interested in doing software and web development projects
-- 🔭 I’m currently looking for a software engineering internship for summer
+- 🔭 I’m currently looking for a software engineering full time role
 - 🌱 I’m currently learning web development
-- 📫 How to reach me: ryanwalterlee@u.nus.edu
+- 📫 How to reach me: ryanwalterlee@gmail.com
 - ⚡️ Fun fact: I really like doing calisthenics in my freetime! :)
